@@ -1,0 +1,24 @@
+
+
+#genreselect {
+    border: 2px solid black;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 10px;
+    text-align: center;
+    font-size: larger;
+    background-color: gold;
+}
+#genre {
+
+    font-size: 17px;
+    border-color: azure;
+    background-color: transparent;
+}
+#search {
+    font-size: 15px;
+    border-color: azure;
+    background-color: transparent;
+    margin-top: 8px;
+    margin-bottom: 5px;
+}

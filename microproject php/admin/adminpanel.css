@@ -1,0 +1,10 @@
+.loc{
+    position: relative;
+    background-color: gold;
+    text-align: center;
+}
+.rdr{
+    background-color: transparent;
+    border-color: transparent;
+    padding-top: 10px;
+}

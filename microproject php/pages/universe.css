@@ -1,0 +1,11 @@
+#Universeselect {
+    margin-left:100px;
+    margin-right: 100px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: gold;
+    text-align: center;
+}
+#universesubmit {
+    background-color: gold;
+}

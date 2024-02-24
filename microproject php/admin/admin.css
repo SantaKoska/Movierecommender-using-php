@@ -1,0 +1,36 @@
+
+#take {
+   padding-top: 180px;
+}
+body {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(
+        to top,
+        gold 0%,
+        gold 50%,
+        black 50%,
+        black 100%
+    );
+}
+#head {
+    position: relative;
+    color: azure;
+    background-color: black;
+    text-align: center;
+}
+#adminbox {
+    border: 2px solid white;
+    background-color:whitesmoke;
+    color: black;
+    position: relative;
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+#adminhead {
+    font-size: 200%;
+}
+#jiji {
+    font-size: 25px;
+}
